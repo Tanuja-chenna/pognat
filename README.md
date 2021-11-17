@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pognat
-- 👀 I’m interested in anything programming, IoT, social good projects, AI
+- 👀 I'm extremely new to the world of development for the web.  I have a background in enterprise hardware configuration. Mainframe/Networks.
 - 🌱 I’m currently learning Java/Spring, Javascript/React/Node.js (By way of cleverprogrammer)
 - 💞️ I’m looking to collaborate on social good project.  Coming from a world of sales/operations to becoming a software engineer
 - 📫 How to reach me: message me on github!
