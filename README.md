@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @pognat
-- 👀 I'm extremely new to the world of development for the web.  I have a background in enterprise hardware configuration. Mainframe/Networks.
-- 🌱 I’m currently learning Java/Spring, Javascript/React/Node.js (By way of cleverprogrammer)
-- 💞️ I’m looking to collaborate on social good project.  Coming from a world of sales/operations to becoming a software engineer
+- 👋 Hi, I’m Tanuja
+- 👀 I'm extremely new to the world of Data Analysis | Machine Learning | Data Science.  I have a background in enterprise hardware configuration. Mainframe/Networks.
+- 🌱 I’m currently learning Python, Algorithms and Advanced Statistics.
+- 💞️ I’m looking to collaborate on social good project.  Coming from a world of sales/operations to becoming a Machine Learning Engineer and/or Data Scientists
 - 📫 How to reach me: message me on github!
 
 <!---
